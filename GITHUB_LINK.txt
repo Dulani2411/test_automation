@@ -1,0 +1,6 @@
+GitHub Repository Link:
+https://github.com/Dulani2411/test_automation
+
+This is the publicly accessible GitHub repository for the Test Automation project (Assignment 1 - IT3040).
+
+Status: Repository is public and accessible at the above URL.

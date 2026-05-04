@@ -5,6 +5,7 @@ Automated Testing for Singlish to Sinhala Transliteration System
 
 ##  Repository
 
+https://github.com/Dulani2411/test_automation
 
 ---
 
